@@ -7,8 +7,10 @@ function App() {
       <div className='freecodecamp-logo-contenedor'>  
         <img 
         src={logoFreeCodeCamp}
-        alt=''/>
-      </div> 
+        alt='Logo de FreeCodeCampo'
+        className='freecodecamp-logo'/>
+      </div>
+      .contenedor-calculadora 
     </div>
   );
 }
