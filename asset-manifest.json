@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_calculadora/static/css/main.23ac2447.css",
-    "main.js": "/react_calculadora/static/js/main.ce233ae2.js",
-    "static/media/logo-ffc.png": "/react_calculadora/static/media/logo-ffc.ae508b498588e1ac8f4a.png",
-    "index.html": "/react_calculadora/index.html",
-    "main.23ac2447.css.map": "/react_calculadora/static/css/main.23ac2447.css.map",
-    "main.ce233ae2.js.map": "/react_calculadora/static/js/main.ce233ae2.js.map"
+    "main.css": "/react_calculadora-calculator-/static/css/main.23ac2447.css",
+    "main.js": "/react_calculadora-calculator-/static/js/main.ad19c93f.js",
+    "static/media/logo-ffc.png": "/react_calculadora-calculator-/static/media/logo-ffc.ae508b498588e1ac8f4a.png",
+    "index.html": "/react_calculadora-calculator-/index.html",
+    "main.23ac2447.css.map": "/react_calculadora-calculator-/static/css/main.23ac2447.css.map",
+    "main.ad19c93f.js.map": "/react_calculadora-calculator-/static/js/main.ad19c93f.js.map"
   },
   "entrypoints": [
     "static/css/main.23ac2447.css",
-    "static/js/main.ce233ae2.js"
+    "static/js/main.ad19c93f.js"
   ]
 }
