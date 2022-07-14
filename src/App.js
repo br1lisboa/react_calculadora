@@ -2,7 +2,7 @@ import './App.css';
 import Boton from './componentes/Boton';
 import BotonClear from './componentes/BotonClear';
 import Pantalla from './componentes/Pantalla';
-import logoFreeCodeCamp from './imgagenes/logo-ffc.png';
+import Logo from './imgagenes/calcu.png';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
 
@@ -26,7 +26,7 @@ function App() {
     <div className='App'>
       <div className='freecodecamp-logo-contenedor'>  
         <img 
-        src={logoFreeCodeCamp}
+        src={Logo}
         alt='Logo de FreeCodeCampo'
         className='freecodecamp-logo'/>
       </div>
